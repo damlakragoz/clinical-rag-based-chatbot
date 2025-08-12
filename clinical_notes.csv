@@ -1,0 +1,501 @@
+id,hasta_adi,not,etiket
+1,ahmet yilmaz,"35 yaşındaki erkek hasta, Açlık kan şekeri 210 mg/dL., Ailede diyabet öyküsü var., Çok su içme ve sık idrara çıkma şikayeti..",Diyabet
+2,canan seker,"55 yaşındaki kadın hasta, Yorgunluk ve kilo kaybı mevcut., Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1..",Diyabet
+3,ali hayrut,"60 yaşındaki erkek hasta, Yorgunluk ve kilo kaybı mevcut., Ailede diyabet öyküsü var., Çok su içme ve sık idrara çıkma şikayeti..",Diyabet
+4,selin asraf,"31 yaşındaki kadın hasta, Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti., Yorgunluk ve kilo kaybı mevcut..",Diyabet
+5,ayşe yıldız,"55 yaşındaki kadın hasta, Yorgunluk ve kilo kaybı mevcut., geceleri cok sik idrara cikma",Diyabet
+6,selin aksoy,"23 yaşındaki kadın hasta, Çok su içme ve sık idrara çıkma şikayeti., HbA1c değeri %9.1., Açlık kan şekeri 210 mg/dL..",Diyabet
+7,asaf yorgun,"26 yaşındaki erkek hasta, Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti., Ailede diyabet öyküsü var..",Diyabet
+8,ismail toker,"50 yaşındaki erkek hasta, Yorgunluk ve kilo kaybı mevcut., Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1..",Diyabet
+9,beytullah coker,"84 yaşındaki erkek hasta, HbA1c değeri %9.1., Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti..",Diyabet
+10,deniz güler,"30 yaşındaki kadın hasta, Ailede diyabet öyküsü var., Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1..",Diyabet
+11,fatma erol,"70 yaşındaki kadın hasta, Baş ağrısı ve kulak çınlaması., Hipertansiyon öyküsü mevcut., Çarpıntı ve baş dönmesi..",Hipertansiyon
+12,zeynep kaya,"33 yaşındaki kadın hasta, Göz dibi muayenesinde hipertansif değişiklikler., Çarpıntı ve baş dönmesi., Hipertansiyon öyküsü mevcut..",Hipertansiyon
+13,elif soylu,"24 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Çarpıntı ve baş dönmesi., Baş ağrısı ve kulak çınlaması..",Hipertansiyon
+14,mehmet can,"44 yaşındaki erkek hasta, Çarpıntı ve baş dönmesi., Hipertansiyon öyküsü mevcut., Baş ağrısı ve kulak çınlaması..",Hipertansiyon
+15,ayşe kara,"78 yaşındaki kadın hasta, Çarpıntı ve baş dönmesi., Göz dibi muayenesinde hipertansif değişiklikler., Baş ağrısı ve kulak çınlaması..",Hipertansiyon
+16,ali bulut,"62 yaşındaki erkek hasta, Çarpıntı ve baş dönmesi., Göz dibi muayenesinde hipertansif değişiklikler., Hipertansiyon öyküsü mevcut..",Hipertansiyon
+17,deniz yildiz,"25 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Göz dibi muayenesinde hipertansif değişiklikler., Baş ağrısı ve kulak çınlaması..",Hipertansiyon
+18,caner ozkan,"47 yaşındaki erkek hasta, Baş ağrısı ve kulak çınlaması., Göz dibi muayenesinde hipertansif değişiklikler., Hipertansiyon öyküsü mevcut..",Hipertansiyon
+19,gül dogan,"79 yaşındaki kadın hasta, Baş ağrısı ve kulak çınlaması., Çarpıntı ve baş dönmesi., Göz dibi muayenesinde hipertansif değişiklikler..",Hipertansiyon
+20,murat demirci,"51 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Hipertansiyon öyküsü mevcut., Çarpıntı ve baş dönmesi..",Hipertansiyon
+21,hatice yilmaz,"65 yaşındaki kadın hasta, Nefes darlığı ve wheezing., Fizik muayenede ronküs mevcut., Kronik öksürük ve balgam..",KOAH
+22,ahmet kaya,"41 yaşındaki kadın hasta, 40 yıldır sigara kullanıyor., FEV1 değeri %45., Fizik muayenede ronküs mevcut..",KOAH
+23,zeynep can,"45 yaşındaki kadın hasta, 40 yıldır sigara kullanıyor., Kronik öksürük ve balgam., Nefes darlığı ve wheezing..",KOAH
+24,ali koc,"81 yaşındaki erkek hasta, Kronik öksürük ve balgam., FEV1 değeri %45., 40 yıldır sigara kullanıyor..",KOAH
+25,cemre erdem,"25 yaşındaki kadın hasta, Fizik muayenede ronküs mevcut., FEV1 değeri %45., Nefes darlığı ve wheezing..",KOAH
+26,osman ak,"78 yaşındaki erkek hasta, 40 yıldır sigara kullanıyor., Kronik öksürük ve balgam., Fizik muayenede ronküs mevcut..",KOAH
+27,mustafa şahin,"60 yaşındaki erkek hasta, Kronik öksürük ve balgam., 40 yıldır sigara kullanıyor., Fizik muayenede ronküs mevcut..",KOAH
+28,aylin kurt,"83 yaşındaki kadın hasta, Nefes darlığı ve wheezing., Fizik muayenede ronküs mevcut., FEV1 değeri %45..",KOAH
+29,can yilmaz,"55 yaşındaki erkek hasta, 40 yıldır sigara kullanıyor., Nefes darlığı ve wheezing., FEV1 değeri %45..",KOAH
+30,deniz ozturk,"71 yaşındaki kadın hasta, Kronik öksürük ve balgam., Nefes darlığı ve wheezing., 40 yıldır sigara kullanıyor..",KOAH
+31,ipek deniz,"40 yaşındaki kadın hasta, Viral enfeksiyon şüphesi., Tonsillerde hiperemi ve eksüda., Burun akıntısı ve halsizlik..",Üst Solunum Yolu Enfeksiyonu
+32,kerem arslan,"42 yaşındaki kadın hasta, Tonsillerde hiperemi ve eksüda., Viral enfeksiyon şüphesi., Öksürük ve baş ağrısı..",Üst Solunum Yolu Enfeksiyonu
+33,gamze çelik,"38 yaşındaki kadın hasta, Burun akıntısı ve halsizlik., Boğaz ağrısı ve ateş., Tonsillerde hiperemi ve eksüda..",Üst Solunum Yolu Enfeksiyonu
+34,görkem yigit,"63 yaşındaki kadın hasta, Burun akıntısı var., Tonsillerde hiperemi ve eksüda., Boğaz ağrısı ve ateş..",Üst Solunum Yolu Enfeksiyonu
+35,ece güler,"31 yaşındaki kadın hasta, Burun akıntısı ve halsizlik., Öksürük ve baş ağrısı., Tonsillerde hiperemi ve eksüda..",Üst Solunum Yolu Enfeksiyonu
+36,mert kılıç,"66 yaşındaki kadın hasta, Tonsillerde hiperemi ve eksüda., Viral enfeksiyon şüphesi., Boğaz ağrısı ve ateş..",Üst Solunum Yolu Enfeksiyonu
+37,hande aktaş,"56 yaşındaki kadın hasta, Boğaz ağrısı ve ateş., Tonsillerde hiperemi ve eksüda., Öksürük ve baş ağrısı..",Üst Solunum Yolu Enfeksiyonu
+38,barış duru,"61 yaşındaki erkek hasta, Viral enfeksiyon şüphesi., Burun akıntısı ve halsizlik., Boğaz ağrısı ve ateş..",Üst Solunum Yolu Enfeksiyonu
+39,sevgi özmen,"42 yaşındaki kadın hasta, Burun akıntısı ve halsizlik., Tonsillerde hiperemi ve eksüda., Viral enfeksiyon şüphesi..",Üst Solunum Yolu Enfeksiyonu
+40,umut karaca,"36 yaşındaki kadın hasta, Öksürük ve baş ağrısı., Viral enfeksiyon şüphesi., Boğaz ağrısı ve ateş..",Üst Solunum Yolu Enfeksiyonu
+41,deniz alkan,"19 yaşındaki erkek hasta, Karında asit birikimi gözlendi., Sarılık ve kaşıntı., Protrombin zamanı uzamış..",Karaciğer Yetmezliği
+42,esin demir,"52 yaşındaki erkek hasta, Alkol öyküsü mevcut., Sarılık ve kaşıntı., Protrombin zamanı uzamış..",Karaciğer Yetmezliği
+43,caner kaya,"66 yaşındaki kadın hasta, Karında asit birikimi gözlendi., AST ve ALT yüksek., Protrombin zamanı uzamış..",Karaciğer Yetmezliği
+44,nilay aydın,"28 yaşındaki kadın hasta, Karında asit birikimi gözlendi., Alkol öyküsü mevcut., Protrombin zamanı uzamış..",Karaciğer Yetmezliği
+45,ufuk yilmaz,"26 yaşındaki erkek hasta, AST ve ALT yüksek., Sarılık ve kaşıntı., Alkol öyküsü mevcut..",Karaciğer Yetmezliği
+46,nergis bulut,"63 yaşındaki kadın hasta, Protrombin zamanı uzamış., Alkol öyküsü mevcut., Karında asit birikimi gözlendi..",Karaciğer Yetmezliği
+47,ahmet yilmaz,"35 yaşındaki erkek hasta, Karında asit birikimi gözlendi., Sarılık ve kaşıntı., Alkol öyküsü mevcut..",Karaciğer Yetmezliği
+48,leyla can,"66 yaşındaki kadın hasta, Alkol öyküsü mevcut., Sarılık ve kaşıntı., AST ve ALT yüksek..",Karaciğer Yetmezliği
+49,tolga aslan,"50 yaşındaki kadın hasta, Karında asit birikimi gözlendi., Alkol öyküsü mevcut., AST ve ALT yüksek..",Karaciğer Yetmezliği
+50,eda aksoy,"63 yaşındaki kadın hasta, AST ve ALT yüksek., Karında asit birikimi gözlendi., Sarılık ve kaşıntı..",Karaciğer Yetmezliği
+51,semih demir,"62 yaşındaki kadın hasta, Üre yüksekliği mevcut., Anemi gelişmiş., GFR < 30 mL/dk..",Kronik Böbrek Yetmezliği
+52,ayla özkan,"47 yaşındaki kadın hasta, Hipertansiyon eşlik ediyor., Üre yüksekliği mevcut., GFR < 30 mL/dk..",Kronik Böbrek Yetmezliği
+53,ozlem koc,"40 yaşındaki kadın hasta, Anemi gelişmiş., GFR < 30 mL/dk., Kreatinin değeri 5.8 mg/dL..",Kronik Böbrek Yetmezliği
+54,cenk aksoy,"27 yaşındaki erkek hasta, Anemi gelişmiş., Üre yüksekliği mevcut., GFR < 30 mL/dk..",Kronik Böbrek Yetmezliği
+55,burcu erdem,"74 yaşındaki erkek hasta, Kreatinin değeri 5.8 mg/dL., Anemi gelişmiş., Hipertansiyon eşlik ediyor..",Kronik Böbrek Yetmezliği
+56,gizem arslan,"60 yaşındaki kadın hasta, GFR < 30 mL/dk., Anemi gelişmiş., Kreatinin değeri 5.8 mg/dL..",Kronik Böbrek Yetmezliği
+57,hakan duru,"46 yaşındaki erkek hasta, Üre yüksekliği mevcut., Hipertansiyon eşlik ediyor., Kreatinin değeri 5.8 mg/dL..",Kronik Böbrek Yetmezliği
+58,enes çelik,"41 yaşındaki erkek hasta, Hipertansiyon eşlik ediyor., Kreatinin değeri 5.8 mg/dL., Üre yüksekliği mevcut..",Kronik Böbrek Yetmezliği
+59,merve güler,"43 yaşındaki kadın hasta, GFR < 30 mL/dk., Üre yüksekliği mevcut., Anemi gelişmiş..",Kronik Böbrek Yetmezliği
+60,onur şahin,"21 yaşındaki erkek hasta, Kreatinin değeri 5.8 mg/dL., Üre yüksekliği mevcut., Anemi gelişmiş..",Kronik Böbrek Yetmezliği
+61,esin yilmaz,"62 yaşındaki erkek hasta, Solunum sesleri azalmış., Göğüste sıkışma hissi., İnhaler bronkodilatöre yanıt var..",Astım
+62,serap kaya,"55 yaşındaki kadın hasta, Solunum sesleri azalmış., İnhaler bronkodilatöre yanıt var., Alerji öyküsü mevcut..",Astım
+63,ozgur can,"34 yaşındaki erkek hasta, Gece artan nefes darlığı., Göğüste sıkışma hissi., Solunum sesleri azalmış..",Astım
+64,zeynep aslan,"66 yaşındaki erkek hasta, İnhaler bronkodilatöre yanıt var., Gece artan nefes darlığı., Alerji öyküsü mevcut..",Astım
+65,aylin demir,"35 yaşındaki kadın hasta, Göğüste sıkışma hissi., Gece artan nefes darlığı., İnhaler bronkodilatöre yanıt var..",Astım
+66,caner aydın,"31 yaşındaki erkek hasta, Solunum sesleri azalmış., Alerji öyküsü mevcut., Göğüste sıkışma hissi..",Astım
+67,seda duru,"40 yaşındaki kadın hasta, İnhaler bronkodilatöre yanıt var., Göğüste sıkışma hissi., Solunum sesleri azalmış..",Astım
+68,deniz ozkan,"24 yaşındaki kadın hasta, İnhaler bronkodilatöre yanıt var., Solunum sesleri azalmış., Alerji öyküsü mevcut..",Astım
+69,gülay koc,"45 yaşındaki kadın hasta, Alerji öyküsü mevcut., Gece artan nefes darlığı., İnhaler bronkodilatöre yanıt var..",Astım
+70,mert çelik,"56 yaşındaki erkek hasta, Solunum sesleri azalmış., İnhaler bronkodilatöre yanıt var., Alerji öyküsü mevcut..",Astım
+71,selin aksoy,"47 yaşındaki kadın hasta, Yorgunluk ve solukluk., Demir eksikliği mevcut., Hemoglobin seviyesi 9.2 g/dL..",Anemi
+72,emine yılmaz,"76 yaşındaki kadın hasta, Demir eksikliği mevcut., Hemoglobin seviyesi 9.2 g/dL., Yorgunluk ve solukluk..",Anemi
+73,ece kaya,"18 yaşındaki kadın hasta, Tırnaklarda kırılganlık., Demir eksikliği mevcut., Dil papilla atrofisi..",Anemi
+74,burak can,"57 yaşındaki kadın hasta, Tırnaklarda kırılganlık., Dil papilla atrofisi., Yorgunluk ve solukluk..",Anemi
+75,pelin demir,"44 yaşındaki erkek hasta, Hemoglobin seviyesi 9.2 g/dL., Tırnaklarda kırılganlık., Dil papilla atrofisi..",Anemi
+76,kaan arslan,"20 yaşındaki kadın hasta, Tırnaklarda kırılganlık., Dil papilla atrofisi., Demir eksikliği mevcut..",Anemi
+77,sema özkan,"18 yaşındaki erkek hasta, Demir eksikliği mevcut., Tırnaklarda kırılganlık., Hemoglobin seviyesi 9.2 g/dL..",Anemi
+78,barış duru,"69 yaşındaki erkek hasta, Yorgunluk ve solukluk., Dil papilla atrofisi., Tırnaklarda kırılganlık..",Anemi
+79,ceren koc,"84 yaşındaki erkek hasta, Demir eksikliği mevcut., Tırnaklarda kırılganlık., Dil papilla atrofisi..",Anemi
+80,deniz çelik,"58 yaşındaki erkek hasta, Hemoglobin seviyesi 9.2 g/dL., Dil papilla atrofisi., Demir eksikliği mevcut..",Anemi
+81,canan özmen,"68 yaşındaki kadın hasta, Ensede sertlik ve ateş., Meningeal bulgular pozitif., Bilinç bulanıklığı..",Menenjit
+82,umut karaca,"35 yaşındaki kadın hasta, Ensede sertlik ve ateş., Bilinç bulanıklığı., Baş ağrısı ve fotofobi..",Menenjit
+83,merve güler,"44 yaşındaki erkek hasta, Lomber ponksiyon yapıldı., Baş ağrısı ve fotofobi., Bilinç bulanıklığı..",Menenjit
+84,onur şahin,"81 yaşındaki kadın hasta, Ensede sertlik ve ateş., Lomber ponksiyon yapıldı., Baş ağrısı ve fotofobi..",Menenjit
+85,gizem arslan,"20 yaşındaki erkek hasta, Ensede sertlik ve ateş., Lomber ponksiyon yapıldı., Baş ağrısı ve fotofobi..",Menenjit
+86,hakan duru,"53 yaşındaki erkek hasta, Meningeal bulgular pozitif., Lomber ponksiyon yapıldı., Baş ağrısı ve fotofobi..",Menenjit
+87,can ekmel,"79 yaşındaki erkek hasta, Lomber ponksiyon yapıldı., Baş ağrısı ve fotofobi., Bilinç bulanıklığı..",Menenjit
+88,sema özkan,"27 yaşındaki erkek hasta, Ensede sertlik ve ateş., Baş ağrısı ve fotofobi., Bilinç bulanıklığı..",Menenjit
+89,barış duru,"24 yaşındaki erkek hasta, Bilinç bulanıklığı., Lomber ponksiyon yapıldı., Ensede sertlik ve ateş..",Menenjit
+90,ceren koc,"27 yaşındaki erkek hasta, Lomber ponksiyon yapıldı., Bilinç bulanıklığı., Baş ağrısı ve fotofobi..",Menenjit
+91,deniz çelik,"21 yaşındaki erkek hasta, İlgi kaybı ve çökkün ruh hali., İntihar düşünceleri tarif ediyor., Enerji düşüklüğü..",Depresyon
+92,canan özmen,"26 yaşındaki erkek hasta, İştahsızlık ve uyku bozukluğu., Enerji düşüklüğü., İntihar düşünceleri tarif ediyor..",Depresyon
+93,umut karaca,"51 yaşındaki erkek hasta, İntihar düşünceleri tarif ediyor., İlgi kaybı ve çökkün ruh hali., Enerji düşüklüğü..",Depresyon
+94,merve güler,"37 yaşındaki erkek hasta, İştahsızlık ve uyku bozukluğu., Enerji düşüklüğü., İntihar düşünceleri tarif ediyor..",Depresyon
+95,onur şahin,"72 yaşındaki kadın hasta, İlgi kaybı ve çökkün ruh hali., İntihar düşünceleri tarif ediyor., DSM-5 kriterlerine uyumlu..",Depresyon
+96,gizem arslan,"80 yaşındaki erkek hasta, İlgi kaybı ve çökkün ruh hali., İştahsızlık ve uyku bozukluğu., DSM-5 kriterlerine uyumlu..",Depresyon
+97,hakan duru,"55 yaşındaki kadın hasta, İntihar düşünceleri tarif ediyor., İştahsızlık ve uyku bozukluğu., Enerji düşüklüğü..",Depresyon
+98,derya çelik,"41 yaşındaki erkek hasta, Enerji düşüklüğü., DSM-5 kriterlerine uyumlu., İntihar düşünceleri tarif ediyor..",Depresyon
+99,sema özkan,"25 yaşındaki erkek hasta, İştahsızlık ve uyku bozukluğu., İlgi kaybı ve çökkün ruh hali., Enerji düşüklüğü..",Depresyon
+100,barış duru,"42 yaşındaki kadın hasta, DSM-5 kriterlerine uyumlu., İlgi kaybı ve çökkün ruh hali., Enerji düşüklüğü..",Depresyon
+101,ceren koc,"71 yaşındaki erkek hasta, HbA1c değeri %9.1., Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti., Ayaklarda uyuşma ve retinopati bulguları..",Diyabet
+102,deniz çelik,"27 yaşındaki erkek hasta, Ailede diyabet öyküsü var., Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti., Ayaklarda uyuşma ve retinopati bulguları..",Diyabet
+103,canan özmen,"73 yaşındaki kadın hasta, Açlık kan şekeri 210 mg/dL., Ayaklarda uyuşma ve retinopati bulguları., Çok su içme ve sık idrara çıkma şikayeti., HbA1c değeri %9.1..",Diyabet
+104,umut karaca,"82 yaşındaki kadın hasta, Çok su içme ve sık idrara çıkma şikayeti., Yorgunluk ve kilo kaybı mevcut., Ayaklarda uyuşma ve retinopati bulguları., Ailede diyabet öyküsü var..",Diyabet
+105,merve güler,"45 yaşındaki kadın hasta, Çok su içme ve sık idrara çıkma şikayeti., Ayaklarda uyuşma ve retinopati bulguları., Yorgunluk ve kilo kaybı mevcut., Ailede diyabet öyküsü var..",Diyabet
+106,onur şahin,"79 yaşındaki erkek hasta, Ayaklarda uyuşma ve retinopati bulguları., Yorgunluk ve kilo kaybı mevcut., Açlık kan şekeri 210 mg/dL., Ailede diyabet öyküsü var..",Diyabet
+107,gizem arslan,"62 yaşındaki erkek hasta, Ayaklarda uyuşma ve retinopati bulguları., HbA1c değeri %9.1., Açlık kan şekeri 210 mg/dL., Ailede diyabet öyküsü var..",Diyabet
+108,hakan duru,"29 yaşındaki kadın hasta, HbA1c değeri %9.1., Yorgunluk ve kilo kaybı mevcut., Ayaklarda uyuşma ve retinopati bulguları., Ailede diyabet öyküsü var..",Diyabet
+109,derya çelik,"82 yaşındaki erkek hasta, HbA1c değeri %9.1., Ailede diyabet öyküsü var., Çok su içme ve sık idrara çıkma şikayeti., Yorgunluk ve kilo kaybı mevcut..",Diyabet
+110,sema özkan,"20 yaşındaki erkek hasta, Çok su içme ve sık idrara çıkma şikayeti., Yorgunluk ve kilo kaybı mevcut., HbA1c değeri %9.1., Ayaklarda uyuşma ve retinopati bulguları..",Diyabet
+111,barış duru,"39 yaşındaki kadın hasta, Yorgunluk ve kilo kaybı mevcut., Ayaklarda uyuşma ve retinopati bulguları., Açlık kan şekeri 210 mg/dL., Çok su içme ve sık idrara çıkma şikayeti..",Diyabet
+112,ceren koc,"55 yaşındaki erkek hasta, Ayaklarda uyuşma ve retinopati bulguları., Açlık kan şekeri 210 mg/dL., Ailede diyabet öyküsü var., Yorgunluk ve kilo kaybı mevcut..",Diyabet
+113,deniz çelik,"24 yaşındaki kadın hasta, Açlık kan şekeri 210 mg/dL., Ayaklarda uyuşma ve retinopati bulguları., Yorgunluk ve kilo kaybı mevcut., Ailede diyabet öyküsü var..",Diyabet
+114,canan özmen,"63 yaşındaki erkek hasta, Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1., Ayaklarda uyuşma ve retinopati bulguları., Ailede diyabet öyküsü var..",Diyabet
+115,umut karaca,"62 yaşındaki kadın hasta, Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1., Ailede diyabet öyküsü var., Çok su içme ve sık idrara çıkma şikayeti..",Diyabet
+116,merve güler,"61 yaşındaki kadın hasta, Çok su içme ve sık idrara çıkma şikayeti., HbA1c değeri %9.1., Ayaklarda uyuşma ve retinopati bulguları., Yorgunluk ve kilo kaybı mevcut..",Diyabet
+117,onur şahin,"48 yaşındaki kadın hasta, Çok su içme ve sık idrara çıkma şikayeti., Ayaklarda uyuşma ve retinopati bulguları., HbA1c değeri %9.1., Yorgunluk ve kilo kaybı mevcut..",Diyabet
+118,gizem arslan,"80 yaşındaki erkek hasta, HbA1c değeri %9.1., Ailede diyabet öyküsü var., Yorgunluk ve kilo kaybı mevcut., Ayaklarda uyuşma ve retinopati bulguları..",Diyabet
+119,hakan duru,"57 yaşındaki kadın hasta, Açlık kan şekeri 210 mg/dL., HbA1c değeri %9.1., Yorgunluk ve kilo kaybı mevcut., Ailede diyabet öyküsü var..",Diyabet
+120,derya çelik,"25 yaşındaki kadın hasta, HbA1c değeri %9.1., Çok su içme ve sık idrara çıkma şikayeti., Yorgunluk ve kilo kaybı mevcut., Ailede diyabet öyküsü var..",Diyabet
+121,sema özkan,"46 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Baş ağrısı ve kulak çınlaması., Sol ventrikül hipertrofisi gözlendi., Ailede hipertansiyon öyküsü mevcut..",Hipertansiyon
+122,barış duru,"37 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Baş ağrısı ve kulak çınlaması., Sol ventrikül hipertrofisi gözlendi., Çarpıntı ve baş dönmesi..",Hipertansiyon
+123,ceren koc,"72 yaşındaki kadın hasta, Sol ventrikül hipertrofisi gözlendi., Tansiyon değeri 170/110 mmHg., Baş ağrısı ve kulak çınlaması., Çarpıntı ve baş dönmesi..",Hipertansiyon
+124,deniz çelik,"73 yaşındaki erkek hasta, Tansiyon değeri 170/110 mmHg., Çarpıntı ve baş dönmesi., Ailede hipertansiyon öyküsü mevcut., Göz dibi muayenesinde hipertansif değişiklikler..",Hipertansiyon
+125,canan özmen,"33 yaşındaki erkek hasta, Tansiyon değeri 170/110 mmHg., Ailede hipertansiyon öyküsü mevcut., Sol ventrikül hipertrofisi gözlendi., Çarpıntı ve baş dönmesi..",Hipertansiyon
+126,umut karaca,"40 yaşındaki erkek hasta, Baş ağrısı ve kulak çınlaması., Tansiyon değeri 170/110 mmHg., Göz dibi muayenesinde hipertansif değişiklikler., Sol ventrikül hipertrofisi gözlendi..",Hipertansiyon
+127,merve güler,"20 yaşındaki kadın hasta, Göz dibi muayenesinde hipertansif değişiklikler., Baş ağrısı ve kulak çınlaması., Ailede hipertansiyon öyküsü mevcut., Çarpıntı ve baş dönmesi..",Hipertansiyon
+128,onur şahin,"83 yaşındaki kadın hasta, Göz dibi muayenesinde hipertansif değişiklikler., Çarpıntı ve baş dönmesi., Ailede hipertansiyon öyküsü mevcut., Tansiyon değeri 170/110 mmHg..",Hipertansiyon
+129,gizem arslan,"48 yaşındaki kadın hasta, Çarpıntı ve baş dönmesi., Sol ventrikül hipertrofisi gözlendi., Baş ağrısı ve kulak çınlaması., Tansiyon değeri 170/110 mmHg..",Hipertansiyon
+130,hakan duru,"32 yaşındaki kadın hasta, Tansiyon değeri 170/110 mmHg., Baş ağrısı ve kulak çınlaması., Sol ventrikül hipertrofisi gözlendi., Çarpıntı ve baş dönmesi..",Hipertansiyon
+131,derya çelik,"40 yaşındaki erkek hasta, Aşırı susuzluk ve sık idrara çıkma şikayetiyle başvurdu. Son zamanlarda 5 kg istemsiz kilo kaybı yaşadı. Yapılan testlerde **açlık kan şekeri 225 mg/dL** ve **HbA1c %9.5** saptandı. Ayrıca parmak uçlarında **uyuşma hissi ve bulanık görme şikayeti** de mevcut. Nöropati ve retinopati açısından ileri tetkik istendi.",Diyabet
+132,sema özkan,"65 yaşındaki kadın hasta, Rutin kontrol amaçlı geldi. Herhangi bir şikayeti bulunmamakta. Fizik muayenesi normal, laboratuvar testleri referans aralıkları içinde. **Diyabet veya hipertansiyon düşündürecek bir bulguya rastlanmadı.**",Sağlıklı
+133,barış duru,"50 yaşındaki erkek hasta, Ani başlayan göğüs ağrısı ve nefes darlığı şikayetiyle acile başvurdu. EKG'de ST segment yükselmesi izlendi, troponin değerleri yüksek. **Diyabet öyküsü mevcut** ancak akut şikayetleri kalp krizi ile uyumlu. **Tanı: Akut Miyokart Enfarktüsü.**",Akut Miyokart Enfarktüsü
+134,ceren koc,"30 yaşındaki kadın hasta, Halsizlik ve sürekli açlık hissi bildiriyor. **Açlık kan şekeri 190 mg/dL** çıktı, ancak **HbA1c %7.0** seviyesinde. Ailede diyabet öyküsü yok. Daha önce **gebelik diyabeti** geçirmiş. Periferik nöropati veya retinopati bulguları şimdilik yok.",Diyabet
+135,deniz çelik,"75 yaşındaki erkek hasta, Polidipsi ve poliüri şikayetleriyle başvurdu. **Açlık kan şekeri 200 mg/dL** ve **HbA1c %8.8** olarak ölçüldü. Geçmişte **inme öyküsü** mevcut. **Ayak ülseri** nedeniyle takipte. **Komplikasyonlu diyabet** tablosu.",Diyabet
+136,canan özmen,"68 yaşındaki kadın hasta, Yeni başlayan baş ağrıları, kulak çınlaması ve zaman zaman **burun kanaması** şikayetiyle başvurdu. Tansiyonu **180/115 mmHg** olarak ölçüldü. **Göz dibi muayenesinde papil ödemi** saptandı. Acil hipertansiyon krizi düşünülüyor. Ailede hipertansiyon öyküsü mevcut.",Hipertansiyon
+137,umut karaca,"45 yaşındaki erkek hasta, Rutin kontrollerde tansiyon değerlerinin sürekli yüksek olduğu görüldü (ortalama **150/95 mmHg**). **Obesity (BMI 32)** mevcut. Herhangi bir semptomu yok. Yaşam tarzı değişikliği önerildi.",Hipertansiyon
+138,merve güler,"55 yaşındaki kadın hasta, Sabahları **nefes darlığı ve hırıltılı solunum** ile uyanıyor. Mevsimsel alerjileri mevcut. Solunum sesleri oskültasyonda azalmış ve **yaygın ekspiratuar ronküsler** duyuluyor. **İnhaler bronkodilatöre belirgin yanıt** gözlendi. KOAH dışlandı.",Astım
+139,onur şahin,"70 yaşındaki erkek hasta, **Kronik öksürük ve sarı-yeşil balgam** şikayetiyle başvurdu. 50 yıldır günde bir paket sigara içiyor. **FEV1 %35** olarak ölçüldü. Fizik muayenede **yaygın ronküs ve ral** sesleri duyuluyor. Son bir ayda 2 kez akut alevlenme geçirmiş.",KOAH
+140,gizem arslan,"30 yaşındaki kadın hasta, Genel yorgunluk, hafif ateş ve boğaz ağrısı ile başvurdu. **Tonsillerde hiperemi mevcut, eksüda görülmedi.** Burun akıntısı ve baş ağrısı eşlik ediyor. Viral bir enfeksiyon olabileceği düşünüldü. Grip testi negatif.",Üst Solunum Yolu Enfeksiyonu
+141,hakan duru,"58 yaşındaki erkek hasta, Giderek artan yorgunluk, ciltte **sarılık ve şiddetli kaşıntı** şikayetiyle geldi. Kan testlerinde **AST ve ALT değerleri >1000 U/L**, bilirubin yüksek. **Ultrasonografide karaciğer boyutları artmış** ve siroz ile uyumlu bulgular izlendi. **Kronik alkol kullanımı** öyküsü var.",Karaciğer Yetmezliği
+142,derya çelik,"65 yaşındaki kadın hasta, Nefes darlığı, halsizlik ve **ayak bileklerinde ödem** şikayetiyle başvurdu. Kan testlerinde **kreatinin 4.5 mg/dL**, **üre 90 mg/dL** ve **GFR 25 mL/dk** olarak saptandı. **Anemi (Hb 8.5 g/dL)** de mevcut. Diyabetik nefropati düşünülüyor.",Kronik Böbrek Yetmezliği
+143,sema özkan,"22 yaşındaki erkek hasta, **İlgi kaybı, uykuya dalmada güçlük ve sürekli yorgunluk** hissediyor. Sosyal aktivitelerden çekildiğini ve **geleceğe dair umutsuzluk** taşıdığını belirtiyor. İştahsızlık ve kilo kaybı mevcut. **DSM-5 kriterlerine göre majör depresif bozukluk** tanısı konuldu.",Depresyon
+144,barış duru,"40 yaşındaki erkek hasta, Ciddi baş ağrısı, **ensede sertlik ve yüksek ateş (39.5°C)** şikayetiyle geldi. **Bilinç bulanıklığı** mevcut. Fizik muayenede **Kernig ve Brudzinski belirtileri pozitif**. Acil **lomber ponksiyon** yapıldı. Bakteriyel menenjit şüphesi.",Menenjit
+145,ceren koc,"50 yaşındaki kadın hasta, Son aylarda giderek artan **halsizlik, solukluk ve çarpıntı** şikayetleriyle başvurdu. **Hemoglobin seviyesi 7.8 g/dL** olarak ölçüldü. **Tırnaklarda kaşıklaşma (koilonişi)** ve **ağız köşelerinde çatlaklar** (angular stomatit) izlendi. Demir eksikliği anemisi düşünülüyor.",Anemi
+146,deniz çelik,"60 yaşındaki erkek hasta, Ani başlayan şiddetli baş ağrısı ve **tansiyon değeri 190/120 mmHg** ile acile başvurdu. Bilinç açık ancak **sağ hemiparezi** mevcut. **Beyin MRG'sinde intrakraniyal kanama** saptandı. Hipertansif acil durum.",Hipertansiyon
+147,canan özmen,"70 yaşındaki kadın hasta, Sürekli yorgunluk ve **ayaklarında yanma hissi** ile başvurdu. **Açlık kan şekeri 180 mg/dL** ve **HbA1c %8.5**. Nörolojik muayenede distalde **duyu kaybı** mevcut. Daha önce diyabet tanısı almış ancak tedaviye uyumu kötü.",Diyabet
+148,umut karaca,"35 yaşındaki kadın hasta, Ara sıra gelen **göğüste sıkışma ve kuru öksürük** şikayetiyle geldi. Özellikle **tozlu ortamlarda ve gece yatarken** artış gösteriyor. Spirometride **FEV1/FVC oranında azalma ve bronkodilatör yanıtı pozitif** saptandı. Alerji öyküsü var.",Astım
+149,merve güler,"50 yaşındaki erkek hasta, Kronik sigara içicisi (30 paket/yıl). Son 6 aydır **egzersiz kapasitesinde belirgin azalma** ve **kronik balgamlı öksürük**. Fizik muayenede **ekspiryum uzaması** mevcut. FEV1 %50 olarak ölçüldü. KOAH alevlenmesi düşünülüyor.",KOAH
+150,onur şahin,"28 yaşındaki kadın hasta, Ani başlayan boğaz ağrısı, yutkunma güçlüğü ve ateşle başvurdu. Tonsillerde belirgin **kızarıklık ve pürülan eksüda** mevcut. Lenf nodlarında büyüme. Hızlı strep testi pozitif. Bakteriyel farenjit tanısı.",Üst Solunum Yolu Enfeksiyonu
+151,gizem arslan,"68 yaşındaki erkek hasta, Son bir aydır artan **generalize ödem (anasarka)**, **karında sıvı birikimi (asit)** ve idrarda azalma şikayetiyle başvurdu. **Albumin düzeyi düşük**, **INR uzamış**. Öyküsünde kronik hepatit B enfeksiyonu mevcut.",Karaciğer Yetmezliği
+152,hakan duru,"72 yaşındaki kadın hasta, Kronik böbrek hastalığı tanısı ile takipte. Diyaliz hastası. Son kontrollerde **kreatinin 7.2 mg/dL** ve **üre 150 mg/dL**. Hb 7.0 g/dL. Hipertansiyonu kontrol altında tutulmakta. Yorgunluk ve kaşıntı şikayetleri devam ediyor.",Kronik Böbrek Yetmezliği
+153,derya çelik,"45 yaşındaki erkek hasta, 3 aydır devam eden **uykusuzluk, iştahsızlık ve karamsarlık** şikayetleri var. Eskiden keyif aldığı aktivitelere karşı ilgisi tamamen kaybolmuş. Kendi kendine zarar verme düşünceleri mevcut. Psikiyatrik destek için sevk edildi.",Depresyon
+154,sema özkan,"33 yaşındaki kadın hasta, Şiddetli baş ağrısı, ateş ve **ışığa karşı hassasiyet (fotofobi)** ile başvurdu. Bilinç açık ancak **mental durum değişikliği** mevcut. Hastada genel halsizlik ve **vücut ağrıları** da eşlik ediyor. Beyin omurilik sıvısı analizi istendi.",Menenjit
+155,barış duru,"55 yaşındaki erkek hasta, Genel kontrol amacıyla geldi. Geçmişinde önemli bir hastalık öyküsü yok. Fizik muayenesi **yaşına uygun ve normal sınırlarda**. Laboratuvar sonuçları (tam kan sayımı, böbrek fonksiyon testleri, karaciğer enzimleri) **tümüyle normal**. Herhangi bir şikayeti bulunmuyor.",Sağlıklı
+156,ceren koc,"60 yaşındaki kadın hasta, Yüksek tansiyon nedeniyle düzenli ilaç kullanıyor. Son ölçümlerde **tansiyonu 130/80 mmHg** idi. **Baş ağrısı veya çarpıntı şikayeti yok.** Göz dibi muayenesi stabil. Kontrol altında hipertansiyon.",Hipertansiyon
+157,deniz çelik,"38 yaşındaki erkek hasta, Düzensiz beslenme alışkanlıkları ve fiziksel aktivite düşüklüğü mevcut. Yapılan tetkiklerde **açlık kan şekeri 140 mg/dL** çıktı ancak **HbA1c %6.0** olarak sınırda geldi. Diyabet öncüsü durum (prediyabet).",Diyabet
+158,canan özmen,"25 yaşındaki kadın hasta, Ani başlayan öksürük ve burun akıntısıyla geldi. Ateşi 37.8°C. **Tonsilleri normal, eksüda yok.** Genel durumu iyi. Mevsimsel nezle ile uyumlu klinik tablo.",Üst Solunum Yolu Enfeksiyonu
+159,umut karaca,"70 yaşındaki erkek hasta, Yıllardır sigara içicisi. Son zamanlarda **gündüzleri de devam eden öksürük ve balgam** şikayetleri artmış. Merdiven çıkarken **nefes darlığı** yaşıyor. Solunum fonksiyon testleri planlandı. Kalp yetmezliği dışlandı.",KOAH
+160,merve güler,"50 yaşındaki kadın hasta, Aşırı yorgunluk, **tırnaklarda kolay kırılma** ve **saç dökülmesi** şikayetiyle başvurdu. Hemoglobin 10.5 g/dL, Ferritin düzeyi düşük. Demir takviyesi başlandı. **Menoraji öyküsü** mevcut.",Anemi
+161,onur şahin,"65 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Kreatinin değeri 3.5 mg/dL. Üre 70 mg/dL. **Böbrek yetmezliği ilerlemiş.** Diyabetik nefropatiye bağlı kronik böbrek yetmezliği.",Kronik Böbrek Yetmezliği
+162,gizem arslan,"28 yaşındaki erkek hasta, Sürekli yorgunluk, uyku bozukluğu ve **sosyal geri çekilme** yaşıyor. İş hayatında motivasyon kaybı ve **konsantrasyon güçlüğü** mevcut. Arkadaş çevresinden uzaklaşmış. DSM-5 kriterlerine göre depresif epizod.",Depresyon
+163,hakan duru,"40 yaşındaki kadın hasta, Şiddetli baş ağrısı ve **boyun tutulması** ile acil servise başvurdu. Ateşi 38.9°C. Bilinç durumu hafif konfüze. Fotofobi ve bulantı mevcut. **LP (Lomber Ponksiyon) planlandı.** Viral menenjit şüphesi.",Menenjit
+164,derya çelik,"30 yaşındaki kadın hasta, Genel kontrol için geldi. Herhangi bir şikayeti yok. **Kan basıncı 120/70 mmHg**, diğer vital bulguları normal. Laboratuvar testleri normal. Sağlıklı yaşam önerileri verildi.",Sağlıklı
+165,sema özkan,"55 yaşındaki erkek hasta, Son 6 aydır artan halsizlik ve iştahsızlık şikayetleri var. Ciltte **sararma** ve idrar renginde koyulaşma mevcut. Karın ağrısı ve şişkinlik de eşlik ediyor. **Batın USG'de karaciğerde nodüler görünüm** ve asit saptandı. HCV öyküsü var.",Karaciğer Yetmezliği
+166,barış duru,"62 yaşındaki kadın hasta, **Diyabeti 15 yıldır devam ediyor.** Son HbA1c %9.8. Ayaklarında **uyuşma ve yanma hissi** artmış. Göz muayenesinde **proliferatif retinopati** bulguları mevcut. İdrarda mikroalbüminüri saptandı.",Diyabet
+167,ceren koc,"45 yaşındaki erkek hasta, Yıllardır astım hastası. Son haftalarda **gece uyanmalarında artış** ve **sabahları hırıltılı solunum** şikayetiyle geldi. İnhaler kullanım sıklığı artmış. Akciğer seslerinde **yaygın wheezing** duyuldu. Tedavi düzenlemesi yapıldı.",Astım
+168,deniz çelik,"75 yaşındaki erkek hasta, Kronik sigara kullanımı öyküsü var. Son dönemde artan **nefes darlığı ve sık enfeksiyonlar** geçiriyor. FEV1 %40. Göğüs ağrısı şikayeti yok. KOAH'a bağlı solunum yetmezliği gelişmekte.",KOAH
+169,canan özmen,"29 yaşındaki kadın hasta, Genel yorgunluk ve enerji düşüklüğü şikayetiyle başvurdu. Kendini mutsuz ve değersiz hissediyor. **Uyku düzeni bozulmuş (insomnia).** Daha önce psikolojik destek almamış. DSM-5 kriterlerine göre major depresyon.",Depresyon
+170,umut karaca,"58 yaşındaki kadın hasta, Kronik hipertansiyon hastası. İlaçlarını düzenli kullanıyor. **Tansiyon ölçümleri ortalama 140/90 mmHg civarında.** Baş ağrısı veya baş dönmesi gibi şikayetleri yok. EKO'da sol ventrikül hipertrofisi mevcut ancak stabil.",Hipertansiyon
+171,merve güler,"35 yaşındaki erkek hasta, **Öksürük, boğaz ağrısı ve burun akıntısı** şikayetleri 3 gündür devam ediyor. Ateşi yok. Genel durumu iyi. Tonsillerde hafif hiperemi. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+172,onur şahin,"66 yaşındaki kadın hasta, **Anemi nedeniyle takipte.** Hemoglobin 9.0 g/dL. Yorgunluk, solukluk ve **efor dispnesi** mevcut. Tırnaklarda kırılganlık devam ediyor. Oral demir tedavisine rağmen yanıt zayıf.",Anemi
+173,gizem arslan,"80 yaşındaki erkek hasta, Yıllardır bilinen kronik böbrek yetmezliği. Kreatinin 6.5 mg/dL. **Periferik nöropati (ayaklarda hissizlik)** gelişmiş. Diyaliz için hazırlıklar yapılıyor. Hipertansiyonu kontrol altında tutulmakta.",Kronik Böbrek Yetmezliği
+174,hakan duru,"20 yaşındaki kadın hasta, Aniden başlayan ateş, **şiddetli baş ağrısı ve ense ağrısı** şikayetleriyle acile başvurdu. **Bilinç bulanıklığı ve ışığa duyarlılık** mevcut. CRP yüksek, procalcitonin normal. Viral menenjit olası.",Menenjit
+175,derya çelik,"50 yaşındaki kadın hasta, Rutin kontrol. Son altı aydır kilo vermeye çalışıyor. Tansiyonu 125/75 mmHg. **Laboratuvar testleri ve fizik muayene normal.** Sağlıklı yaşam tarzı önerileri devam ediyor.",Sağlıklı
+176,sema özkan,"70 yaşındaki erkek hasta, **Alkol bağımlılığı öyküsü** mevcut. Son zamanlarda **karın şişliği, bacaklarda ödem ve sarılıkta artış**. AST/ALT yüksek, **GGT çok yüksek**. Ultrasonografide sirotik karaciğer ve asit saptandı. Hepatik ensefalopati bulguları var.",Karaciğer Yetmezliği
+177,barış duru,"42 yaşındaki kadın hasta, Kronik yorgunluk, **konsantrasyon eksikliği** ve **sürekli bir hüzün hali** yaşıyor. İş performansı düşmüş. Aile içinde sorunlar nedeniyle stresli. İştahında artış ve **aşırı uyku (hipersomni)** mevcut. Depresif epizod.",Depresyon
+178,ceren koc,"59 yaşındaki erkek hasta, **Diyabeti iyi kontrol altında (HbA1c %6.5).** Ancak son zamanlarda **nöropatik ağrılar (ayaklarda yanıcı ağrı)** şiddetlenmiş. Retinopati bulgusu yok. Nefrit gelişimi için takipte.",Diyabet
+179,deniz çelik,"30 yaşındaki kadın hasta, **Mevsimsel alerjik rinit öyküsü** var. Özellikle bahar aylarında **hapşırık, burun akıntısı ve kaşıntılı gözler** şikayetiyle geliyor. Solunum sıkıntısı veya wheezing yok. Astım dışlandı.",Üst Solunum Yolu Enfeksiyonu
+180,canan özmen,"85 yaşındaki erkek hasta, **KOAH'a bağlı kronik solunum yetmezliği.** Evde oksijen kullanıyor. Sık sık enfeksiyon geçiriyor. Son ataklarında **bilinç bulanıklığı** da eşlik etti. Akut solunum yetmezliği atağı.",KOAH
+181,umut karaca,"68 yaşındaki kadın hasta, **Aritmi (atriyal fibrilasyon)** ve **hipertansiyon** tanısı ile takipte. Tansiyon değeri **160/100 mmHg**. Baş ağrısı ve çarpıntı devam ediyor. İlaç dozları ayarlandı. Böbrek fonksiyon testleri normal.",Hipertansiyon
+182,merve güler,"24 yaşındaki erkek hasta, **Depresyon tanısıyla antidepresan tedavi alıyor.** Tedavisine iyi yanıt veriyor. Enerji seviyesi yükselmiş, iştahı düzelmiş. İntihar düşünceleri tamamen kaybolmuş. İlgi alanları geri gelmiş.",Depresyon
+183,onur şahin,"50 yaşındaki kadın hasta, Yıllardır süren **kronik migren** öyküsü var. Aylık ortalama 4-5 kez migren atağı geçiriyor. Baş ağrısı ve kulak çınlaması şikayetiyle geldi ancak tansiyonu 120/80 mmHg. Hipertansiyon dışlandı.",Sağlıklı
+184,gizem arslan,"60 yaşındaki erkek hasta, Ani başlayan ateş, titreme ve **bilinç düzeyinde değişiklik** şikayetleriyle acile başvurdu. Öyküsünde **kronik alkol kullanımı** ve **karaciğer sirozu** mevcut. Fizik muayenede **sarılık ve asit** bulguları belirgin. Hepatik ensefalopati düşünülüyor.",Karaciğer Yetmezliği
+185,hakan duru,"35 yaşındaki erkek hasta, Ateş, titreme ve genel halsizlik şikayetleriyle başvurdu. Fizik muayenede **boyunda lenf nodlarında büyüme** ve boğazda hafif kızarıklık mevcut. Grip testi negatif. Viral enfeksiyon olası.",Üst Solunum Yolu Enfeksiyonu
+186,derya çelik,"70 yaşındaki kadın hasta, Diyabet nedeniyle düzenli takipte. Son HbA1c %7.0. Göz dibi muayenesinde **non-proliferatif retinopati** bulguları mevcut. Nöropatik ağrısı yok. Diyabetik kontrol altında.",Diyabet
+187,sema özkan,"48 yaşındaki kadın hasta, **Kronik astım** hastası. Stresli dönemlerde veya alerjenle temasta **nefes darlığı ve öksürük** şikayetleri artıyor. İnhaler kullanımına iyi yanıt veriyor. Acil bir durum yok.",Astım
+188,barış duru,"88 yaşındaki erkek hasta, Yıllardır KOAH hastası. Evde oksijen tedavisi alıyor. Son zamanlarda **solunum sıkıntısı ve balgam artışı** ile başvurdu. Akciğer seslerinde **yaygın ronküsler** mevcut. KOAH alevlenmesi.",KOAH
+189,ceren koc,"25 yaşındaki kadın hasta, Ani başlayan baş ağrısı, ense sertliği ve **ateş (38.5°C)** şikayetleriyle acil servise başvurdu. Bilinç açık ancak **fotofobi** mevcut. Nörolojik muayene normal. Menenjit ekarte edilmeli.",Menenjit
+190,deniz çelik,"62 yaşındaki kadın hasta, Rutin kontrol. Herhangi bir şikayeti yok. **Kan basıncı 135/85 mmHg**. Yaşına uygun bulgular. Sağlıklı yaşam tarzı önerileri devam ediyor.",Sağlıklı
+191,canan özmen,"40 yaşındaki erkek hasta, Kronik böbrek yetmezliği tanısı ile takipte. Diyalize yeni başlamış. Kreatinin 8.0 mg/dL. **Anemi ve yorgunluk** belirgin. Diyaliz uyumu iyi.",Kronik Böbrek Yetmezliği
+192,umut karaca,"32 yaşındaki kadın hasta, Yaklaşık 6 aydır süren **genel mutsuzluk, motivasyon kaybı ve uyku sorunları** yaşıyor. Daha önce psikolojik destek almamış. Yaşam kalitesi düşmüş. Majör depresif bozukluk.",Depresyon
+193,merve güler,"55 yaşındaki erkek hasta, Ciltte **solukluk**, kolay **yorulma** ve **çarpıntı** şikayetiyle başvurdu. Hemoglobin 8.5 g/dL. Dışkıda gizli kan pozitif. Demir eksikliği anemisi ve olası gastrointestinal kanama araştırılıyor.",Anemi
+194,onur şahin,"78 yaşındaki kadın hasta, Hipertansiyon ve diyabet öyküsü mevcut. Tansiyonu 150/90 mmHg. **Göz dibi muayenesinde evre II hipertansif retinopati** saptandı. Baş ağrısı mevcut. Tansiyon kontrolü için ilaç ayarı yapıldı.",Hipertansiyon
+195,gizem arslan,"65 yaşındaki erkek hasta, Yakın zamanda grip geçirdi. Hala **burun akıntısı ve öksürük** şikayetleri devam ediyor. Genel durumu iyi. Bakteriyel bir enfeksiyon lehine bulgu yok.",Üst Solunum Yolu Enfeksiyonu
+196,hakan duru,"49 yaşındaki kadın hasta, Aşırı yorgunluk, **karın şişkinliği** ve bacaklarda ödem şikayetiyle başvurdu. Öyküsünde otoimmün hepatit mevcut. Laboratuvar testlerinde **bilirubin ve INR yüksekliği** saptandı. Karaciğer yetmezliği alevlenmesi.",Karaciğer Yetmezliği
+197,derya çelik,"30 yaşındaki erkek hasta, Genel check-up için geldi. Sportif ve aktif bir yaşam tarzı var. Tüm kan testleri ve fizik muayenesi **normal sınırlarda**.",Sağlıklı
+198,sema özkan,"72 yaşındaki kadın hasta, İdrar sıklığında artış, gece idrara çıkma ve **kilo kaybı** şikayetiyle başvurdu. Açlık kan şekeri 240 mg/dL, HbA1c %10.2. Diyabet tanısı yeni konuldu.",Diyabet
+199,barış duru,"58 yaşındaki erkek hasta, 40 yıldır sigara içicisi. Son zamanlarda **gece öksürükleri** ve nefes darlığı artmış. Akciğer grafisinde **hiperinflasyon** bulguları mevcut. KOAH.",KOAH
+200,ceren koc,"22 yaşındaki kadın hasta, Şiddetli baş ağrısı, ışığa karşı hassasiyet ve **bulantı/kusma** ile acile başvurdu. Ateşi 37.5°C. Genel durumu stabil. Migren atağı veya viral menenjit düşünülüyor.",Menenjit
+201,deniz çelik,"65 yaşındaki erkek hasta, Kronik böbrek yetmezliği tanısı ile takipte. Kreatinin 4.0 mg/dL. **Hipertansiyonu kontrolsüz.** Diyaliz ihtiyacı açısından değerlendiriliyor.",Kronik Böbrek Yetmezliği
+202,canan özmen,"40 yaşındaki kadın hasta, Son 2 aydır devam eden **moral bozukluğu, motivasyon eksikliği ve uykuya dalmada zorluk** yaşıyor. İş yerindeki stres nedeniyle durumu kötüleşmiş. Depresif semptomlar.",Depresyon
+203,umut karaca,"52 yaşındaki erkek hasta, Yorgunluk, çarpıntı ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 9.8 g/dL. Ferritin düşük. Demir eksikliği anemisi.",Anemi
+204,merve güler,"75 yaşındaki kadın hasta, Hipertansiyon ve koroner arter hastalığı öyküsü mevcut. Tansiyonu 145/85 mmHg. **Göğüs ağrısı şikayeti yok.** Kardiyoloji takibinde.",Hipertansiyon
+205,onur şahin,"33 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetiyle başvurdu. Ateşi 37.0°C. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+206,gizem arslan,"60 yaşındaki kadın hasta, Karaciğer sirozu tanısı ile takipte. Son zamanlarda **bacaklarda şişlik ve sarılıkta artış** mevcut. Diyet ve ilaç tedavisine rağmen durumu kötüleşiyor.",Karaciğer Yetmezliği
+207,hakan duru,"30 yaşındaki kadın hasta, Rutin sağlık kontrolü için geldi. Aktif ve sağlıklı bir yaşam tarzı var. Tüm testleri **normal**.",Sağlıklı
+208,derya çelik,"58 yaşındaki erkek hasta, Yeni diyabet tanısı konuldu. Açlık kan şekeri 200 mg/dL, HbA1c %9.0. **Ayaklarında uyuşma** şikayeti mevcut. Eğitim ve diyet planlandı.",Diyabet
+209,sema özkan,"68 yaşındaki kadın hasta, KOAH nedeniyle düzenli ilaç kullanıyor. Son bir haftadır **öksürük ve balgamda artış** ile nefes darlığı yaşıyor. Enfeksiyon düşünülüyor.",KOAH
+210,barış duru,"45 yaşındaki erkek hasta, Şiddetli baş ağrısı, ateş ve **ense sertliği** şikayetiyle acile başvurdu. Bilinç bulanıklığı yok. Viral menenjit olası.",Menenjit
+211,ceren koc,"70 yaşındaki erkek hasta, Kronik böbrek yetmezliği ve diyabet hastası. Kreatinin 5.0 mg/dL. **Anemi ve yorgunluk** şikayetleri devam ediyor.",Kronik Böbrek Yetmezliği
+212,deniz çelik,"28 yaşındaki kadın hasta, 3 aydır devam eden **depresif ruh hali**, iştahsızlık ve uyku bozukluğu yaşıyor. Geçmişte depresyon öyküsü mevcut. Psikiyatrik tedaviye başlandı.",Depresyon
+213,canan özmen,"50 yaşındaki kadın hasta, Sürekli yorgunluk, solukluk ve **tırnaklarda kırılganlık** şikayetiyle başvurdu. Hemoglobin 8.0 g/dL. Demir eksikliği anemisi.",Anemi
+214,umut karaca,"60 yaşındaki erkek hasta, Hipertansiyon nedeniyle düzenli takipte. Tansiyonu kontrol altında. Herhangi bir şikayeti yok.",Hipertansiyon
+215,merve güler,"30 yaşındaki kadın hasta, Baş ağrısı ve burun akıntısı şikayetleri mevcut. Boğaz ağrısı yok. Genel durumu iyi. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+216,onur şahin,"75 yaşındaki erkek hasta, Karaciğer yetmezliği tanısı ile takipte. Son dönemde **ensefalopati** bulguları gelişti. Bilinç düzeyinde dalgalanmalar mevcut.",Karaciğer Yetmezliği
+217,gizem arslan,"40 yaşındaki kadın hasta, Rutin kontrollerde tansiyon yüksekliği saptandı (140/90 mmHg). Semptom yok. Yaşam tarzı değişikliği ve takip önerildi.",Hipertansiyon
+218,hakan duru,"65 yaşındaki kadın hasta, Açlık kan şekeri 220 mg/dL, HbA1c %9.5. Yeni diyabet tanısı. **Ayaklarda yanma hissi** mevcut. Diyet ve ilaç tedavisi başlandı.",Diyabet
+219,aydin çelik,"55 yaşındaki erkek hasta, KOAH nedeniyle düzenli ilaç kullanıyor. Son alevlenmesinde **hastaneye yatış** gerekti. Akut solunum sıkıntısı.",KOAH
+220,sema özkan,"20 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetleriyle acile başvurdu. Nörolojik muayene normal. BOS analizi bekleniyor.",Menenjit
+221,barış duru,"72 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 7.0 mg/dL. **Kaşıntı ve yorgunluk** şikayetleri devam ediyor.",Kronik Böbrek Yetmezliği
+222,ceren koc,"35 yaşındaki kadın hasta, Duygu durumunda dalgalanmalar, **uyku düzensizliği** ve enerji düşüklüğü yaşıyor. İş yerindeki performansında düşüş var. Depresif epizod.",Depresyon
+223,deniz çelik,"45 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen çarpıntı** şikayetiyle başvurdu. Hemoglobin 9.0 g/dL. Demir eksikliği anemisi. Gastroskopi planlandı.",Anemi
+224,canan özmen,"68 yaşındaki kadın hasta, Tansiyonu 160/100 mmHg. Baş ağrısı mevcut. Daha önce hipertansiyon tanısı almış ancak ilaç kullanmıyor. İlaç tedavisi başlandı.",Hipertansiyon
+225,umut karaca,"32 yaşındaki kadın hasta, Boğaz ağrısı, hafif ateş ve **öksürük** şikayetleri mevcut. Viral enfeksiyon düşünülüyor.",Üst Solunum Yolu Enfeksiyonu
+226,merve güler,"80 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son zamanlarda **asit artışı** ve bacaklarda ödem mevcut. Diyüretik tedavisine yanıt zayıf.",Karaciğer Yetmezliği
+227,onur şahin,"28 yaşındaki kadın hasta, Genel sağlık kontrolü. Hiçbir şikayeti yok. Tüm tetkikleri **normal**.",Sağlıklı
+228,gizem arslan,"60 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 180 mg/dL. HbA1c %8.0. **Ayaklarda nöropatik ağrı** mevcut. Tedavi düzenlemesi yapıldı.",Diyabet
+229,hakan duru,"70 yaşındaki erkek hasta, KOAH alevlenmesi. Akut solunum yetmezliği gelişmekte. Yoğun bakımda takip ediliyor.",KOAH
+230,erdem çelik,"25 yaşındaki erkek hasta, Ani başlayan ateş ve **ense sertliği** şikayetiyle acile başvurdu. **Lomber ponksiyon** yapıldı. Menenjit şüphesi devam ediyor.",Menenjit
+231,sema özkan,"65 yaşındaki erkek hasta, Kronik böbrek yetmezliği ve diyabet. Kreatinin 4.5 mg/dL. **Anemi ve yorgunluk** şikayetleri devam ediyor. Diyaliz düşünülüyor.",Kronik Böbrek Yetmezliği
+232,barış duru,"40 yaşındaki kadın hasta, Son 6 aydır devam eden **depresif ruh hali**, ilgi kaybı ve enerji düşüklüğü yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+233,ceren koc,"50 yaşındaki kadın hasta, Yorgunluk, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 7.5 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi.",Anemi
+234,deniz çelik,"75 yaşındaki erkek hasta, Hipertansiyon ve koroner arter hastalığı. Tansiyonu 150/90 mmHg. **Baş dönmesi** şikayeti mevcut. İlaç dozları yeniden düzenlendi.",Hipertansiyon
+235,canan özmen,"35 yaşındaki kadın hasta, Burun akıntısı ve hapşırık. Ateşi yok. Mevsimsel alerjik rinit düşünülüyor.",Üst Solunum Yolu Enfeksiyonu
+236,umut karaca,"60 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı bilinç değişiklikleri** mevcut. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+237,merve güler,"30 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm sonuçları **normal**.",Sağlıklı
+238,onur şahin,"55 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 190 mg/dL. HbA1c %8.5. **Retinopati** bulguları mevcut. Göz takibi yapılıyor.",Diyabet
+239,gizem arslan,"65 yaşındaki kadın hasta, KOAH nedeniyle düzenli takipte. Son alevlenmesinde **solunum yetmezliği** gelişti. Hastaneye yatışı yapıldı.",KOAH
+240,hakan duru,"22 yaşındaki erkek hasta, Ateş, baş ağrısı ve **boyun tutulması** şikayetiyle acile başvurdu. Viral menenjit olası.",Menenjit
+241,eren çelik,"70 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 6.0 mg/dL. **Anemi ve yorgunluk** devam ediyor.",Kronik Böbrek Yetmezliği
+242,sema özkan,"45 yaşındaki erkek hasta, Son 3 aydır **moral bozukluğu**, uyku sorunları ve iştahsızlık yaşıyor. İş yerinde performans düşüşü. Depresyon tanısı.",Depresyon
+243,barış duru,"55 yaşındaki kadın hasta, Yorgunluk, solukluk ve **tırnaklarda kırılganlık** şikayetiyle başvurdu. Hemoglobin 9.5 g/dL. Demir eksikliği anemisi.",Anemi
+244,ceren koc,"80 yaşındaki erkek hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 170/100 mmHg. **Nefes darlığı** şikayeti mevcut. İlaç tedavisi yeniden düzenlendi.",Hipertansiyon
+245,deniz çelik,"40 yaşındaki kadın hasta, Boğaz ağrısı ve öksürük. Ateşi yok. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+246,canan özmen,"70 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **karında sıvı birikimi (asit)** artışı mevcut. Paracentesis yapıldı.",Karaciğer Yetmezliği
+247,umut karaca,"35 yaşındaki kadın hasta, Genel check-up. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+248,merve güler,"65 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 210 mg/dL. HbA1c %9.0. **Böbrek fonksiyonlarında bozulma** mevcut. Nefropati takibi yapılıyor.",Diyabet
+249,onur şahin,"75 yaşındaki kadın hasta, KOAH nedeniyle düzenli takipte. Son bir ayda **2 kez akut alevlenme** geçirdi. Hastaneye yatışları oldu.",KOAH
+250,gizem arslan,"28 yaşındaki kadın hasta, Ateş, baş ağrısı ve **fotofobi** şikayetiyle acile başvurdu. Viral menenjit olası.",Menenjit
+251,hakan duru,"60 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 7.5 mg/dL. **Yorgunluk ve iştahsızlık** devam ediyor.",Kronik Böbrek Yetmezliği
+252,harun çelik,"30 yaşındaki erkek hasta, Son 6 aydır **kronik mutsuzluk**, enerji düşüklüğü ve sosyal geri çekilme yaşıyor. Psikiyatrik destek alıyor.",Depresyon
+253,sema özkan,"40 yaşındaki kadın hasta, Halsizlik, solukluk ve **eforla gelen çarpıntı** şikayetiyle başvurdu. Hemoglobin 10.0 g/dL. Ferritin düşük. Demir eksikliği anemisi.",Anemi
+254,barış duru,"85 yaşındaki erkek hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 160/95 mmHg. **Nefes darlığı** şikayeti devam ediyor. İlaç dozları optimize edildi.",Hipertansiyon
+255,ceren koc,"45 yaşındaki kadın hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+256,deniz çelik,"65 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **sarılıkta artış** ve kaşıntı mevcut. Biliyer obstrüksiyon ekarte edildi.",Karaciğer Yetmezliği
+257,canan özmen,"25 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+258,umut karaca,"70 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 200 mg/dL. HbA1c %8.8. **Ayak ülseri** mevcut. Yara bakımı yapılıyor.",Diyabet
+259,merve güler,"80 yaşındaki erkek hasta, KOAH alevlenmesi. Hastanede oksijen tedavisi alıyor. Solunum fonksiyonları kötüleşti.",KOAH
+260,onur şahin,"30 yaşındaki kadın hasta, Ateş, baş ağrısı ve **bulantı/kusma** şikayetiyle acile başvurdu. Viral menenjit olası.",Menenjit
+261,gizem arslan,"65 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 8.0 mg/dL. **Kaşıntı ve yorgunluk** devam ediyor. Fosfor yüksekliği mevcut.",Kronik Böbrek Yetmezliği
+262,hakan duru,"35 yaşındaki erkek hasta, Son 3 aydır **halsizlik**, uyku bozukluğu ve iştahsızlık yaşıyor. Kilo kaybı mevcut. Depresyon tanısı.",Depresyon
+263,mucahit ok,"50 yaşındaki erkek hasta, Yorgunluk, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 8.8 g/dL. Demir eksikliği anemisi. Kolonoskopi planlandı.",Anemi
+264,sema özkan,"70 yaşındaki erkek hasta, Hipertansiyon ve koroner arter hastalığı. Tansiyonu 155/90 mmHg. **Göğüs ağrısı** şikayeti mevcut. Kardiyolojik değerlendirme yapıldı.",Hipertansiyon
+265,barış duru,"50 yaşındaki kadın hasta, Burun akıntısı ve hafif öksürük. Ateşi yok. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+266,ceren koc,"75 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatorenal sendrom** gelişti. Böbrek fonksiyonları kötüleşiyor.",Karaciğer Yetmezliği
+267,deniz çelik,"30 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+268,canan özmen,"60 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 170 mg/dL. HbA1c %7.8. **Nöropati ve retinopati** bulguları mevcut. Multidisipliner takip.",Diyabet
+269,umut karaca,"85 yaşındaki erkek hasta, KOAH alevlenmesi. Yoğun bakımda entübe edildi. Mekanik ventilasyon desteği alıyor.",KOAH
+270,merve güler,"35 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Nörolojik muayene normal. BOS analizi bekleniyor.",Menenjit
+271,onur şahin,"60 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 9.0 mg/dL. **Ciddi anemi** mevcut. Transfüzyon planlandı.",Kronik Böbrek Yetmezliği
+272,gizem arslan,"40 yaşındaki kadın hasta, Son 2 aydır **moral bozukluğu**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+273,hakan duru,"55 yaşındaki erkek hasta, Halsizlik, solukluk ve **tırnaklarda kırılganlık** şikayetiyle başvurdu. Hemoglobin 9.2 g/dL. Demir eksikliği anemisi.",Anemi
+274,suheyla ceyran,"70 yaşındaki kadın hasta, Hipertansiyon ve diyabet öyküsü mevcut. Tansiyonu 160/90 mmHg. **Göz dibi muayenesinde evre III hipertansif retinopati** saptandı. Baş ağrısı devam ediyor.",Hipertansiyon
+275,sema özkan,"55 yaşındaki kadın hasta, Boğaz ağrısı ve öksürük. Ateşi yok. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+276,barış duru,"80 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatorenal sendrom** gelişti. Böbrek fonksiyonları kötüleşiyor.",Karaciğer Yetmezliği
+277,ceren koc,"28 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+278,deniz çelik,"65 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 230 mg/dL. HbA1c %10.0. **Nöropatik ağrı ve retinopati** bulguları belirgin. Tedaviye uyumsuzluk mevcut.",Diyabet
+279,canan özmen,"75 yaşındaki kadın hasta, KOAH alevlenmesi. Hastanede solunum desteği alıyor. Genel durumu kötü.",KOAH
+280,umut karaca,"40 yaşındaki erkek hasta, Ateş, baş ağrısı ve **fotofobi** şikayetiyle acile başvurdu. Viral menenjit olası.",Menenjit
+281,merve güler,"65 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 8.5 mg/dL. **Anemi ve yorgunluk** devam ediyor. Hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+282,onur şahin,"30 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+283,gizem arslan,"45 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 8.0 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi planlandı.",Anemi
+284,hakan duru,"70 yaşındaki erkek hasta, Hipertansiyon ve koroner arter hastalığı. Tansiyonu 170/100 mmHg. **Baş ağrısı ve çarpıntı** şikayeti mevcut. İlaç dozları ayarlandı.",Hipertansiyon
+285,derya çelik,"60 yaşındaki kadın hasta, Burun akıntısı ve hafif öksürük. Ateşi yok. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+286,sema özkan,"85 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+287,barış duru,"30 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+288,ceren koc,"70 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 240 mg/dL. HbA1c %10.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Komplikasyonlu diyabet.",Diyabet
+289,deniz çelik,"80 yaşındaki kadın hasta, KOAH alevlenmesi. Hastanede oksijen tedavisi alıyor. Solunum fonksiyonları kritik.",KOAH
+290,canan özmen,"45 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+291,umut karaca,"60 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 9.5 mg/dL. **Anemi ve kaşıntı** devam ediyor. Hiperfofatemi mevcut.",Kronik Böbrek Yetmezliği
+292,merve güler,"35 yaşındaki kadın hasta, Son 3 aydır **halsizlik**, uyku bozukluğu ve iştahsızlık yaşıyor. Kilo kaybı mevcut. Depresyon tanısı.",Depresyon
+293,onur şahin,"50 yaşındaki kadın hasta, Yorgunluk, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 7.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+294,gizem arslan,"75 yaşındaki erkek hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 180/110 mmHg. **Nefes darlığı ve çarpıntı** şikayeti mevcut. Acil tedaviye alındı.",Hipertansiyon
+295,hakan duru,"65 yaşındaki kadın hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+296,derya çelik,"70 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+297,sema özkan,"30 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+298,barış duru,"55 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 220 mg/dL. HbA1c %9.5. **Retinopati ve nöropati** bulguları belirgin. Tedaviye uyumsuzluk devam ediyor.",Diyabet
+299,ceren koc,"80 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+300,deniz çelik,"50 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+301,canan özmen,"60 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 10.0 mg/dL. **Ciddi anemi** ve **hiperkalemi** mevcut. Acil diyaliz planlandı.",Kronik Böbrek Yetmezliği
+302,umut karaca,"40 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+303,merve güler,"55 yaşındaki erkek hasta, Halsizlik, solukluk ve **tırnaklarda kırılganlık** şikayetiyle başvurdu. Hemoglobin 9.2 g/dL. Demir eksikliği anemisi.",Anemi
+304,onur şahin,"70 yaşındaki kadın hasta, Hipertansiyon ve diyabet öyküsü mevcut. Tansiyonu 165/95 mmHg. **Göz dibi muayenesinde evre IV hipertansif retinopati** saptandı. Baş ağrısı şiddetli. Acil tedaviye alındı.",Hipertansiyon
+305,gizem arslan,"65 yaşındaki erkek hasta, Burun akıntısı ve hafif öksürük. Ateşi yok. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+306,hakan duru,"75 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatorenal sendrom** gelişti. Böbrek fonksiyonları kritik.",Karaciğer Yetmezliği
+307,derya çelik,"30 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+308,sema özkan,"60 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 250 mg/dL. HbA1c %11.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski mevcut.",Diyabet
+309,barış duru,"85 yaşındaki kadın hasta, KOAH alevlenmesi. Hastanede oksijen tedavisi alıyor. Genel durumu kritik.",KOAH
+310,ceren koc,"55 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+311,deniz çelik,"65 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 11.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi mevcut.",Kronik Böbrek Yetmezliği
+312,canan özmen,"40 yaşındaki erkek hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+313,umut karaca,"50 yaşındaki kadın hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 6.5 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+314,merve güler,"75 yaşındaki erkek hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 190/115 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+315,onur şahin,"70 yaşındaki kadın hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+316,gizem arslan,"80 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+317,hakan duru,"30 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+318,derya çelik,"55 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 260 mg/dL. HbA1c %11.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski yüksek.",Diyabet
+319,sema özkan,"80 yaşındaki kadın hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+320,barış duru,"60 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+321,ceren koc,"65 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 12.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Hiperfofatemi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+322,deniz çelik,"45 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+323,canan özmen,"50 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 7.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+324,umut karaca,"70 yaşındaki erkek hasta, Hipertansiyon ve koroner arter hastalığı. Tansiyonu 200/120 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+325,merve güler,"75 yaşındaki kadın hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+326,onur şahin,"85 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+327,gizem arslan,"30 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+328,hakan duru,"60 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 270 mg/dL. HbA1c %12.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+329,derya çelik,"80 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+330,sema özkan,"65 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+331,barış duru,"70 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 13.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+332,ceren koc,"45 yaşındaki erkek hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+333,deniz çelik,"50 yaşındaki kadın hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 6.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+334,canan özmen,"75 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 210/125 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+335,umut karaca,"80 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+336,merve güler,"90 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+337,onur şahin,"35 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+338,gizem arslan,"65 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 280 mg/dL. HbA1c %12.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+339,hakan duru,"90 yaşındaki kadın hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+340,derya çelik,"70 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+341,sema özkan,"75 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 14.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+342,barış duru,"50 yaşındaki erkek hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+343,ceren koc,"55 yaşındaki kadın hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 7.0 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+344,deniz çelik,"80 yaşındaki erkek hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 220/130 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+345,canan özmen,"85 yaşındaki kadın hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+346,umut karaca,"95 yaşındaki erkek hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+347,merve güler,"40 yaşındaki kadın hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+348,onur şahin,"70 yaşındaki erkek hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 290 mg/dL. HbA1c %13.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+349,gizem arslan,"95 yaşındaki kadın hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+350,hakan duru,"75 yaşındaki erkek hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+351,derya çelik,"80 yaşındaki kadın hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 15.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+352,sema özkan,"55 yaşındaki erkek hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+353,barış duru,"60 yaşındaki kadın hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 6.5 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+354,ceren koc,"85 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 230/135 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+355,deniz çelik,"90 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+356,canan özmen,"100 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+357,umut karaca,"45 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+358,merve güler,"75 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 300 mg/dL. HbA1c %13.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+359,onur şahin,"100 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+360,gizem arslan,"80 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+361,hakan duru,"85 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 16.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+362,derya çelik,"60 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+363,sema özkan,"65 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 6.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+364,barış duru,"90 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 240/140 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+365,ceren koc,"95 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+366,deniz çelik,"105 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+367,canan özmen,"50 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+368,umut karaca,"80 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 310 mg/dL. HbA1c %14.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+369,merve güler,"105 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+370,onur şahin,"85 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+371,gizem arslan,"90 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 17.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+372,hakan duru,"65 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+373,derya çelik,"70 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 6.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+374,sema özkan,"95 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 250/145 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+375,barış duru,"100 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+376,ceren koc,"110 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+377,deniz çelik,"55 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+378,canan özmen,"85 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 320 mg/dL. HbA1c %14.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+379,umut karaca,"110 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+380,merve güler,"90 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+381,onur şahin,"95 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 18.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+382,gizem arslan,"70 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+383,hakan duru,"75 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 5.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+384,derya çelik,"100 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 260/150 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+385,sema özkan,"105 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+386,barış duru,"115 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+387,ceren koc,"60 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+388,deniz çelik,"90 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 330 mg/dL. HbA1c %15.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+389,canan özmen,"115 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+390,umut karaca,"95 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+391,merve güler,"100 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 19.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+392,onur şahin,"75 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+393,gizem arslan,"80 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 5.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+394,hakan duru,"105 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 270/155 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+395,derya çelik,"110 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+396,sema özkan,"120 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+397,barış duru,"65 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+398,ceren koc,"95 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 340 mg/dL. HbA1c %15.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+399,deniz çelik,"120 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+400,canan özmen,"100 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+401,umut karaca,"105 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 20.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+402,merve güler,"80 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+403,onur şahin,"85 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 4.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+404,gizem arslan,"110 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 280/160 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+405,hakan duru,"115 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+406,derya çelik,"125 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+407,sema özkan,"70 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+408,barış duru,"100 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 350 mg/dL. HbA1c %16.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+409,ceren koc,"125 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+410,deniz çelik,"105 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+411,canan özmen,"110 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 21.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+412,umut karaca,"85 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+413,merve güler,"90 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 4.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+414,onur şahin,"115 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 290/165 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+415,gizem arslan,"120 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+416,hakan duru,"130 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+417,derya çelik,"75 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+418,sema özkan,"105 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 360 mg/dL. HbA1c %16.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+419,barış duru,"130 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+420,ceren koc,"110 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+421,deniz çelik,"115 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 22.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+422,canan özmen,"90 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+423,umut karaca,"95 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 3.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+424,merve güler,"120 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 300/170 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+425,onur şahin,"125 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+426,gizem arslan,"135 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+427,hakan duru,"80 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+428,derya çelik,"110 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 370 mg/dL. HbA1c %17.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+429,sema özkan,"135 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+430,barış duru,"115 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+431,ceren koc,"120 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 23.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+432,deniz çelik,"95 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+433,canan özmen,"100 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 3.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+434,umut karaca,"125 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 310/175 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+435,merve güler,"130 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+436,onur şahin,"140 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+437,gizem arslan,"85 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+438,hakan duru,"115 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 380 mg/dL. HbA1c %17.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+439,derya çelik,"140 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+440,sema özkan,"120 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+441,barış duru,"125 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 24.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+442,ceren koc,"100 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+443,deniz çelik,"105 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 2.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+444,canan özmen,"130 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 320/180 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+445,umut karaca,"135 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+446,merve güler,"145 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+447,onur şahin,"90 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+448,gizem arslan,"120 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 390 mg/dL. HbA1c %18.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+449,hakan duru,"145 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+450,derya çelik,"125 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+451,sema özkan,"130 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 25.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+452,barış duru,"105 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+453,ceren koc,"110 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 2.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+454,deniz çelik,"135 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 330/185 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+455,canan özmen,"140 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+456,umut karaca,"150 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+457,merve güler,"95 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+458,onur şahin,"125 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 400 mg/dL. HbA1c %18.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+459,gizem arslan,"150 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+460,hakan duru,"130 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+461,derya çelik,"135 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 26.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+462,sema özkan,"110 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+463,barış duru,"115 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 1.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+464,ceren koc,"140 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 340/190 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+465,deniz çelik,"145 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+466,canan özmen,"155 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+467,umut karaca,"100 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+468,merve güler,"130 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 410 mg/dL. HbA1c %19.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+469,onur şahin,"155 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+470,gizem arslan,"135 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+471,hakan duru,"140 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 27.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+472,derya çelik,"115 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+473,sema özkan,"120 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 1.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+474,barış duru,"145 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 350/195 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+475,ceren koc,"150 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+476,deniz çelik,"160 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+477,canan özmen,"105 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+478,umut karaca,"135 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 420 mg/dL. HbA1c %19.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+479,merve güler,"160 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+480,onur şahin,"140 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+481,gizem arslan,"145 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 28.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+482,hakan duru,"120 yaşındaki kadın hasta, Son 6 aydır **genel mutsuzluk**, uyku bozukluğu ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+483,derya çelik,"125 yaşındaki erkek hasta, Halsizlik, solukluk ve **eforla gelen nefes darlığı** şikayetiyle başvurdu. Hemoglobin 0.5 g/dL. Demir eksikliği anemisi. Üst GİS endoskopi ve kolonoskopi planlandı.",Anemi
+484,sema özkan,"150 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 360/200 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+485,barış duru,"155 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+486,ceren koc,"165 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+487,deniz çelik,"110 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+488,canan özmen,"140 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 430 mg/dL. HbA1c %20.0. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+489,umut karaca,"165 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+490,merve güler,"145 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
+491,onur şahin,"150 yaşındaki erkek hasta, Kronik böbrek yetmezliği. Diyaliz hastası. Kreatinin 29.0 mg/dL. **Anemi ve kaşıntı** devam ediyor. Sıvı yüklenmesi ve hiperkalemi mevcut.",Kronik Böbrek Yetmezliği
+492,gizem arslan,"125 yaşındaki kadın hasta, Son 3 aydır **depresif ruh hali**, uyku sorunları ve iştahsızlık yaşıyor. Psikiyatrik tedaviye yanıt veriyor.",Depresyon
+493,hakan duru,"130 yaşındaki erkek hasta, Halsizlik, solukluk ve **nefes darlığı** şikayetiyle başvurdu. Hemoglobin 0.0 g/dL. Ferritin seviyesi çok düşük. Şiddetli demir eksikliği anemisi. Kan transfüzyonu yapıldı.",Anemi
+494,derya çelik,"155 yaşındaki kadın hasta, Hipertansiyon ve kalp yetmezliği. Tansiyonu 370/205 mmHg. **Nefes darlığı ve çarpıntı** şikayeti şiddetli. Acil tedaviye alındı.",Hipertansiyon
+495,sema özkan,"160 yaşındaki erkek hasta, Burun akıntısı, hapşırık ve **boğaz ağrısı** şikayetleri mevcut. Viral üst solunum yolu enfeksiyonu.",Üst Solunum Yolu Enfeksiyonu
+496,barış duru,"170 yaşındaki kadın hasta, Karaciğer yetmezliği nedeniyle takipte. Son dönemde **hepatik ensefalopatiye bağlı koma** gelişti. Yoğun bakımda takip ediliyor.",Karaciğer Yetmezliği
+497,ceren koc,"115 yaşındaki erkek hasta, Rutin sağlık kontrolü. Şikayeti yok. Tüm testleri **normal**.",Sağlıklı
+498,deniz çelik,"145 yaşındaki kadın hasta, Diyabet ve hipertansiyon öyküsü mevcut. Açlık kan şekeri 440 mg/dL. HbA1c %20.5. **Ciddi nöropati ve retinopati** bulguları belirgin. Diyabetik ketoasidoz riski çok yüksek.",Diyabet
+499,canan özmen,"170 yaşındaki erkek hasta, KOAH alevlenmesi. Mekanik ventilasyon desteği alıyor. Genel durumu kritik.",KOAH
+500,umut karaca,"150 yaşındaki kadın hasta, Ateş, baş ağrısı ve **ense sertliği** şikayetiyle acile başvurdu. Bakteriyel menenjit şüphesi. Acil BOS analizi.",Menenjit
