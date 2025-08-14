@@ -3,6 +3,14 @@
 A collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical natural language processing (NLP) models.  
 Includes chatbots, diagnosis classifiers, and experiments with multiple large language models (LLMs) on Turkish clinical notes.
 
+## 🚀 Features
+
+- Fine-tuning of **Mistral 7B**, **Falcon RW 1B**, and **BERTurk** for clinical NLP tasks.
+- Retrieval-Augmented Generation (RAG) for more accurate medical Q\&A.
+- Multi-model chatbot implementations for patient-facing scenarios.
+- Diagnosis classification pipeline with evaluation metrics.
+- Fully reproducible Jupyter notebooks for each experiment.
+
 ## 📂 Repository Structure
 
 | File | Description |
@@ -12,15 +20,6 @@ Includes chatbots, diagnosis classifiers, and experiments with multiple large la
 | **finetuned_falcon_rw_1b.ipynb** | LLM-based clinical chatbot, built with fine-tuned Falcon RW 1B model on Turkish medical text data. |
 | **hamza_xl_modeli.ipynb** | Chatbot implementation using the Hamza XL model hosted on Hugging Face. |
 | **clinical_notes.csv** | Dataset of 500 syntheticly created Turkish clinical notes used for training and evaluation (de-identified). |
-| **README.md** | Project documentation (this file). |
-
-## 🚀 Features
-
-- Fine-tuning of **Mistral 7B**, **Falcon RW 1B**, and **BERTurk** for clinical NLP tasks.
-- Retrieval-Augmented Generation (RAG) for more accurate medical Q\&A.
-- Multi-model chatbot implementations for patient-facing scenarios.
-- Diagnosis classification pipeline with evaluation metrics.
-- Fully reproducible Jupyter notebooks for each experiment.
 
 ## 📊 Models & Frameworks
 
