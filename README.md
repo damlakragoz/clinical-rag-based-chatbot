@@ -1,4 +1,4 @@
-# Clinical NLP Toolkit
+# Clinical NLP Toolkit: RAG-Based Chatbots Specializing on Turkish Clinical Notes and Diagnosis Classifier
 
 A collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical natural language processing (NLP) models.  
 Includes chatbots, diagnosis classifiers, and experiments with multiple large language models (LLMs) on Turkish clinical notes.
