@@ -7,7 +7,7 @@ Includes chatbots, diagnosis classifiers, and experiments with multiple large la
 
 - Fine-tuning of LLM's **Mistral 7B**, **Falcon RW 1B**, and **BERTurk** for clinical NLP tasks.
 - Multi-model chatbot implementations with domain-specific context retrieval, Retrieval-Augmented Generation (RAG) pipeline for more accurate medical Q\&A..
-- Diagnosis classification based on retrieved clinical notes.
+- Diagnosis classification based on clinical notes.
 
 ## 📂 Repository Structure
 
