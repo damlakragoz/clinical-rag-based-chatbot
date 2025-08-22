@@ -1,4 +1,4 @@
-# Clinical NLP Toolkit: RAG-Based Chatbots Specializing on Turkish Clinical Notes and Diagnosis Classifier
+# Clinical NLP Toolkit
 Developed during an internship at ECD Software as part of a project collaboration with Turkcell.
 A curated collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical NLP models.
 Includes:
