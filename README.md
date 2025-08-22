@@ -7,7 +7,7 @@ Includes chatbots, diagnosis classifiers, and experiments with multiple large la
 
 - Fine-tuning of **Mistral 7B**, **Falcon RW 1B**, and **BERTurk** for clinical NLP tasks.
 - Retrieval-Augmented Generation (RAG) for more accurate medical Q\&A.
-- Multi-model chatbot implementations for patient-facing scenarios.
+- Multi-model chatbot implementations.
 - Diagnosis classification pipeline with evaluation metrics.
 - Fully reproducible Jupyter notebooks for each experiment.
 
