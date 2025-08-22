@@ -1,8 +1,11 @@
 # Clinical NLP Toolkit: RAG-Based Chatbots Specializing on Turkish Clinical Notes and Diagnosis Classifier
+Developed during an internship at ECD Software as part of a project collaboration with Turkcell.
+A curated collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical NLP models.
+Includes:
 
-A collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical natural language processing (NLP) models.  
-Includes chatbots, diagnosis classifiers, and experiments with multiple large language models (LLMs) on Turkish clinical notes.
-
+- RAG-powered chatbots tailored to Turkish clinical notes
+- Diagnosis classifiers from de-identified patient data
+- Experiments with multiple large language models (LLMs) (Mistral 7B, Falcon RW 1B, BERTurk)
 ## Main Features
 
 - Fine-tuning of LLM's **Mistral 7B**, **Falcon RW 1B**, and **BERTurk** for clinical NLP tasks.
