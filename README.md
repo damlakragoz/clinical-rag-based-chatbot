@@ -1,5 +1,5 @@
 # Clinical NLP Toolkit
-Developed during an internship at ECD Software as part of a project collaboration with Turkcell.
+Developed during an internship at [ECD Software](https://ecdyazilim.com/) as part of a project collaboration with [Turkcell](https://www.turkcell.com.tr).
 A curated collection of Jupyter notebooks and resources for building, fine-tuning, and evaluating clinical NLP models.
 Includes:
 
