@@ -12,7 +12,7 @@ Includes:
 - Multi-model chatbot implementations with domain-specific context retrieval, Retrieval-Augmented Generation (RAG) pipeline for more accurate medical Q\&A..
 - Diagnosis classification based on clinical notes.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | File | Description |
 |------|-------------|
@@ -22,7 +22,7 @@ Includes:
 | **hamza_xl_modeli.ipynb** | Chatbot implementation using the Hamza XL model hosted on Hugging Face. |
 | **clinical_notes.csv** | Dataset of 500 syntheticly created Turkish clinical notes used for training and evaluation (de-identified). |
 
-## 📊 Models & Frameworks
+## Models & Frameworks
 
 - [Mistral 7B](https://mistral.ai/) — general-purpose LLM adapted for clinical dialogue.
 - [BERTurk](https://huggingface.co/dbmdz/bert-base-turkish-cased) — fine-tuned for medical text classification.
